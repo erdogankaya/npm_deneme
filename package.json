@@ -1,0 +1,48 @@
+{
+  "name": "npm_deneme",
+  "version": "0.0.1",
+  "description": "ERKA first try",
+  "author": {
+    "name": "USISHI ICT",
+    "email": "info@usishi.com"
+  },
+  "maintainers": [
+    {
+      "name": "Erdoğan KAYA",
+      "email": "erdogan.kaya@usishi.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/erdogankaya/npm_deneme.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "express"  : "3.4.7",
+    "jade"     : "0.27.7",
+    "mime"     : "1.2.11",
+    "uwebtools": "git+https://github.com/usishi/uwebtools.git",
+    "node-uuid": "1.4.1",
+    "nedb"     : "0.9.3"
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+
+  "readme": "",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/erdogankaya/npm_deneme",
+  "_id": "npm_deneme@0.0.1",
+  "dist": {
+    "shasum": ""
+  },
+  "_resolved": "",
+  "_from": "npm_deneme@git+https://github.com/erdogankaya/npm_deneme.git"
+}
